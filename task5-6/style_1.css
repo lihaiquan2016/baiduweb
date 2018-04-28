@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+.left p{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.right .gao{
+    margin-bottom: 20px;
+}
+.right .gao .gaol{
+    margin-bottom: 20px;
+}
+.right .gao .gaor .pbj{
+    margin-bottom: 20px;
+}
+.right .gao .gaol{
+    font-size: 30px;
+    font-weight: bold;
+}
+.right .gao .gaor .hang{
+    display: inline-block;
+}
+.right .gao .gaor .biaoti{
+    font-weight: bold;
+}
+.right .gao .gaor .pbj .biaoti{
+    font-weight: bold;
+}
+#s1{
+    display: block;
+}

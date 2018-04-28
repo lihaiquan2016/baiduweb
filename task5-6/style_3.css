@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 800px;
+}
+.left{
+    background-color:deepskyblue;
+    color: white;
+    height: 100px;
+}
+.left p{
+    line-height: 100px;
+    padding-left: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.right{
+    height: 700px;
+}
+.gao{
+    height: 150px;
+    padding-bottom: 2px;
+    border: #eeeeee 1px solid;
+}
+.right .gao .gaol{
+    background-color: #eeeeee;
+    text-align: center;
+    height: 150px;
+    width: 100px;
+    line-height: 150px;
+    padding:75px auto;
+    float: left;
+}
+.right .gao .gaor .hang{
+    display: inline-block;
+}
+.right .gao .gaor .biaoti{
+    font-weight: bold;
+}
+.right .gao .gaor .pbj .biaoti{
+    font-weight: bold;
+}
+.gaor{
+    float: left;
+    padding-left: 20px;
+
+}
